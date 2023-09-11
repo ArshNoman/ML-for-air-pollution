@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/Bishkek.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Bishkekdata.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/blind.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv/lib/python3.9/site-packages/statsmodels/tsa/regime_switching/tests/results/mar_filardo.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv/lib/python3.9/site-packages/statsmodels/tsa/regime_switching/tests/results/results_predict_rgnp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv/lib/python3.9/site-packages/statsmodels/tsa/statespace/tests/results/frbny_nowcast/Nowcasting/data/US/2016-06-29.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv/lib/python3.9/site-packages/statsmodels/tsa/statespace/tests/results/frbny_nowcast/Nowcasting/data/US/2016-07-29.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv/lib/python3.9/site-packages/statsmodels/tsa/statespace/tests/results/results_clark1989_R.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv/lib/python3.9/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_local_level_R.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv/lib/python3.9/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_var1_measurement_error_R.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
